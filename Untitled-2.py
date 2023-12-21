@@ -12,7 +12,7 @@ for i in losoweCyfryIZnaki:
 
 # print(licznik)
 
-dlogoscHasla = int(input("podaj ilość znaków do hasła: "))
+dlogoscHasla = 15
 haslo = ""
 
 for i in range(dlogoscHasla):
